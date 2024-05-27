@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋<br>I'm a Full Stack Developer student at Patika+ Bootcamp. I enjoy learning new things and exploring new technologies. You can see the projects I've worked on so far in my repositories.</h2>
 
-###
-
-<div align="center">
-  <img height="200" src ="wallpaper.png"/>
-</div>
-
-###
 
 <h2 align="left">Technologies and Tools</h2>
 
@@ -52,6 +45,13 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
        </a>
 </div>
+###
+
+<div align="center">
+  <img height="200" src ="wallpaper.png"/>
+</div>
+
+###
 
 ###
 
